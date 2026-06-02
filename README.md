@@ -90,12 +90,12 @@ Your instructors, peer supporters, and AI Makerspace staff will serve as your yo
 
 - [Raul Padua](https://www.linkedin.com/in/raulpadua/), Lead Concepts Instructor
 - [Can Temizyurek](https://www.linkedin.com/in/cantemizyurek/), Lead Coding Instructor
+- [Juan Ovalle](https://www.linkedin.com/in/jjmov/?skipRedirect=true), Peer Supporter (International)
 - [Ovo Okpubuluku](https://www.linkedin.com/in/ovokpus/), Peer Supporter
-- [Juan Ovalle](https://www.linkedin.com/in/jjmov/?skipRedirect=true), Peer Supporter
 - [Raphael Blankson](https://www.linkedin.com/in/raphaelblankson/), Peer Supporter
 - [Don Branson](https://www.linkedin.com/in/donbranson/), Grading Manager & Peer Supporter
 - ["Coach Mark" Walker](https://www.linkedin.com/in/mark-l-walker/), Student Success Manager @ AI Makerspace & Peer Supporter
-- - [Todd Deshane](https://www.linkedin.com/in/toddllm/), 1:1 Support Manager @ AI Makerspace
+- [Todd Deshane](https://www.linkedin.com/in/toddllm/), 1:1 Support Manager @ AI Makerspace
 - [Jacob Kilpatrick](https://www.linkedin.com/in/jacobkilpatrickai/), Course Operations Lead @ AI Makerspace
 - [Dr. Greg Loughnane](https://www.linkedin.com/in/gregloughnane/), Owner/CEO @ AI Makerspace
 
